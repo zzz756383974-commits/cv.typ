@@ -1,80 +1,69 @@
 [cv]
-name = "胡图图"
-email = "tutuhu@gmail.com"
-phone = "(+86) 820-820-8820"
-website = "https://www.wikiwand.com/zh/大耳朵图图"
-birthday = "2000.06.21"
+name = "张雨璇"
+email = " yuxuanzzz1999@outlook.com"
+phone = "(+86) 150-0918-3683"
 # 路径
 avatar = ""
 
 [[educations]]
-school = "翻斗幼儿园"
-major = "软件工程"
-degree = "幼儿园"
-date = "2006.9 - now"
+school = "云南大学"
+major = "环境设计"
+degree = "硕士"
+date = "2023.9 - 2026.7"
 
 [[educations]]
-school = "翻斗学前班"
-major = "计算机科学与技术"
-degree = "学前班"
-date = "2003.9 - 2006.6"
+school = "咸阳师范学院"
+major = "环境设计"
+degree = "本科"
+date = "2017.9 - 2021.7"
 
 [[projects]]
-name = "Kubernetes"
-url = "https://github.com/kubernetes/kubernetes"
-date = "2014.6 - now"
-desc = "Kubernetes是一个开源的，用于管理云平台中多个主机上的容器化的应用"
-points = ["负责Kubernetes的网络部分", "负责Kubernetes的不知道什么部分"]
+name = "2023年云南大学常态化社会实践项目"
+date = " 2023.09—2023.12"
+desc = "本项目从环境心理学视角出发，对昆明市盲哑学校的物理空间进行调研与分析，旨在提出一套针对视障与听障学生特殊需求的人性化设计改造方案，以提升其空间使用体验与心理健康水平。"
+points = ["组织并实施现场调研，通过行为观察与访谈，系统分析空间使用痛点。", "主笔撰写最终调研报告，项目荣获校级一等奖"]
 
 [[projects]]
-name = "Linux"
-url = "https://github.com/torvalds/linux"
-date = "2006.6 - 2022.6"
-desc = "Linux是一个开源的操作系统内核"
-points = [
-    "负责Linux的文件系统部分，包括ext4, btrfs, xfs, f2fs",
-    "负责Linux的网络部分，包括TCP/IP, UDP, SCTP, DCCP, IPv4, IPv6",
-]
+name = "云南省教育厅科学研究基金项目"
+date = "2024.04—2025.09"
+desc = "本省级基金项目立足于乡村振兴国家战略，探究艺术介入与设计赋能在于会泽县乡村建设中的具体路径与模式，旨在为乡村文化振兴与空间活化提供理论依据与实践案例"
+points = [ "作为核心成员，独立负责并完成项目的理论框架构建工作", "参与会泽县实地调研，系统收集村落空间与文化背景等关键数据",]
 
 [[projects]]
-name = "翻斗幼儿园每日打卡"
-url = ""
-date = "2019.12 - 2023.1"
-desc = ""
-points = ["可以进行翻斗幼儿园每日打卡", "在线用户超过20"]
+name = "云南大学第四届专业学位研究生实践创新项目"
+date = ""2024.9—2024.12"
+desc = "本项目以泉州“刺桐古城”红砖文化遗产为灵感来源，将其独特的视觉元素与文化内涵融入安溪铁观音的茶叶包装设计，旨在打造兼具地域文化特色与市场吸引力的品牌形象。"
+points = ["作为核心成员，参与构思项目研究框架并撰写立项申请书", "主导项目的设计研究与概念开发，系统梳理了红砖文化的视觉符号体系"]
 
 [[internships]]
-company = "翻斗大街翻斗花园2号楼"
-jobtitle = "端茶倒水"
-date = "2022.4 - 2022.6"
-points = ["负责端茶倒水", "负责浇花"]
+company = "苏州博物馆"
+jobtitle = "陈列展览部实习生"
+date = "2025.2 - 2025.7"
+points = ["深度参与并执行“从拙政园到莫奈花园”及“张占占个展”等重点展览的形式设计落地全流程"]
 
 [[internships]]
-company = "翻斗幼儿园"
-jobtitle = "扮演小学生"
-date = "2022.4 - 2022.6"
-points = ["和张小帅一起玩", "和张小帅一起吃饭", "和张小帅一起睡觉(误)"]
+company = "中国近现代新闻出版博物馆"
+jobtitle = "展陈与宣教部实习生"
+date = "2024.7 - 2024.9"
+points = ["独立撰写报纸中的时代记忆展展陈大纲与展签，参与展览内容策划。", " 独立完成第十届博博会临展手册等关键宣传物料的设计与排版"]
 
-[[awards]]
-name = "最佳编导奖（获奖）"
-date = "2006.11.8"
+[[Research and Awards]]
+name = "大众文艺（省刊）"
+date = "2025年18期"
 
-[[awards]]
-name = "优秀长篇美术片奖（获奖）"
-date = "2006.11.8"
+[[Research and Awards]]
+name = "第六届东方创意之星创新设计大赛（银奖）"
+date = "2025.8"
 
-[[awards]]
-name = "中国电视艺术最高政府奖 - 星光奖"
-date = "2010.1.24"
+[[Research and Awards]]
+name = "中国好创意(第十九届)暨全国数字艺术设计大赛（优秀奖）"
+date = "2025.8"
 
-[[skills]]
-name = "编程语言"
-desc = "C/C++, Python, Java, JavaScript, HTML/CSS, PHP, SQL"
 
 [[skills]]
-name = "工具"
-desc = "Git, Vim, VS Code, Linux, Docker, MySQL, MongoDB, Redis"
+name = "设计软件"
+desc = "Illustrator、Photoshop、Figma、InDesign、AutoCAD、SketchUp"
 
 [[skills]]
 name = "语言"
-desc = "中文, 英语, 日语, 俄语, 法语, 德语, 西班牙语, 阿拉伯语, 葡萄牙语, 意大利语, 希腊语, 土耳其语"
+desc = "中文, 英语
